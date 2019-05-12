@@ -1,0 +1,42 @@
+/* a */
+	.outer{
+		width:600px;
+		height:500px;
+		background:black;
+		color:white;
+		margin-left:auto;
+		margin-right:auto;
+		margin-top:50px;
+	}
+
+	.outer label, .outer td{
+		color:white;
+	}
+
+	input{
+		margin-top:2px;
+	}
+/* b */
+	#idCheck, #goMain, #joinBtn {
+		background:orangered;
+		border-radius:5px;
+		width:80px;
+		height:25px;
+		text-align:center;
+	}
+
+	#idCheck:hover, #joinBtn:hover, #goMain:hover {
+		cursor:pointer;
+	}
+
+	td {
+		text-align:right;
+	}
+
+	#joinBtn {
+		background:yellowgreen;
+	}
+
+	#joinBtn, #goMain {
+		display:inline-block;
+	}
