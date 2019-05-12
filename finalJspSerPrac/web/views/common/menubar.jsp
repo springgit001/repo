@@ -76,12 +76,8 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 
 <body>
-<p>aaaaa22222222222222</p>
 
-<p>ppppppppppppppppppp33333333444</p>
-
-
-
+ 
 	
 	<h1 align="center">Welcome JSP World!</h1>
 	<!---------------------------- 1. 회원 관련 서비스 ---------------------------------->
